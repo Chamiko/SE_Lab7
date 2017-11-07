@@ -1,4 +1,4 @@
-#BT CNPM tuần 7: Quản lí khách sạn
+BT CNPM tuần 7: Quản lí khách sạn
 
 A,Goals
 - Phần mềm dạng ứng dụng cho máy tính cá nhân, chỉ có nhân viên lễ tân, nhân viên bán hàng, quản lí khách sạn được sử dụng
@@ -9,6 +9,7 @@ A,Goals
   + Checkin/Checkout và thanh toán cho khách hàng
 
 B,Bussiness Objective
+
 1, Quản lí thông tin phòng và khách sạn
 - Tìm phòng trống và đặt phòng theo yêu cầu của khách
 - Thêm/sửa/xóa thông tin phòng
